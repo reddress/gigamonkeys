@@ -1,1 +1,2 @@
 07 jun 2016 begin Ch. 4 Syntax
+08 jun 2016 begin Ch. 7 Macros
