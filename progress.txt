@@ -1,2 +1,3 @@
 07 jun 2016 begin Ch. 4 Syntax
 08 jun 2016 begin Ch. 7 Macros
+09 jun 2016 begin Ch. 9 Unit Test
